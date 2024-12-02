@@ -12,5 +12,7 @@ run image_sample.py
 ```python
     generation_dir = "your generation path"
 ```
-## 3. References
+## 3. US puncture image synthesis
+use the function in `data_synthesis.py`
+## 4. References
 1. https://github.com/openai/improved-diffusion
